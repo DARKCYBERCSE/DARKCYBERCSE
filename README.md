@@ -1,9 +1,8 @@
 ## Hi there 👋 It's me Muthuraj
 
 Software Engineer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+- 🌱 I’m currently learning and Teaching Coding and Integrating AI to my workflow
 - Engineeing at [<img src="https://wadhwanifoundation.org/wp-content/uploads/2023/11/Vel-Tech-Rangarajan-Dr.Sagunthala-RD-Institute-of-Science-and-Technology.png" height="24">](https://www.veltechmultitech.org/),
 - ⚡ Tech fact: I know PC Optimization
 - Social Presence
