@@ -3,7 +3,9 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&center=true&vCenter=true&random=false&width=600&lines=Learning%2C+Building%2C+and+Leveling+Up.;Java+%7C+SQL+%7C+Spring+Boot+%7C+REST+APIs;Open+to+Internships%2FFull-time+Developer+Roles" alt="Typing SVG" />
 </h2>
-
+<div align="center">
+    <img src=""/>
+<div>
 <p align="center">
   <a href="https://github.com/DARKCYBERCSE"><img src="https://img.shields.io/badge/GitHub-DARKCYBERCSE-181717?logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/muthurajc/"><img src="https://img.shields.io/badge/LinkedIn-Muthuraj%20C-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
